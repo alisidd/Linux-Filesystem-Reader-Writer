@@ -1,3 +1,7 @@
+# Linux-Filesystem-Reader-Writer
+
+A C program that allows the user to read, write, and get from a FAT12 filesystem image on Linux
+
 Instructions:
 
 1. Open terminal
